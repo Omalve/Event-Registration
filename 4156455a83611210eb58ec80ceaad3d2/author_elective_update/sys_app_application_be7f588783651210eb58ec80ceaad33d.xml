@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:12:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be7f588783651210eb58ec80ceaad33d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Event Registration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Event Registration" source="x_1559352_event_0">4156455a83611210eb58ec80ceaad3d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">4156455a83611210eb58ec80ceaad3d2</sys_scope>
+        <sys_update_name>sys_app_application_be7f588783651210eb58ec80ceaad33d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 00:12:38</sys_updated_on>
+        <title>Event Registration</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Event Registration">4156455a83611210eb58ec80ceaad3d2</application>
+        <file_path/>
+        <instance_id>63cea9d4dbf6791005ef17291396191c</instance_id>
+        <instance_name>dev224104</instance_name>
+        <name>sys_app_application_be7f588783651210eb58ec80ceaad33d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-03 00:12:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>be7f588783651210eb58ec80ceaad33d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Event Registration</sys_name><sys_overrides/><sys_package display_value="Event Registration" source="x_1559352_event_0">4156455a83611210eb58ec80ceaad3d2</sys_package><sys_policy/><sys_scope display_value="Event Registration">4156455a83611210eb58ec80ceaad3d2</sys_scope><sys_update_name>sys_app_application_be7f588783651210eb58ec80ceaad33d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-03 00:12:38</sys_updated_on><title>Event Registration</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>630786322</payload_hash>
+        <record_name>Event Registration</record_name>
+        <reverted_from/>
+        <source>ef3e46ae83a95210eb58ec80ceaad3e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:12:38</sys_created_on>
+        <sys_id>9b8f988783651210eb58ec80ceaad3e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192ef5ddbb20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 00:12:38</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>9f8f9887f66512109fc8acb5acdd76e1</update_guid>
+        <update_guid_history>9f8f9887f66512109fc8acb5acdd76e1:630786322</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Event Registration">7cb6cc1b83a55210eb58ec80ceaad3a8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 17:02:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>22ab3dd831494b59935f72b9b8512541</sys_id>
+        <sys_metadata>be7f588783651210eb58ec80ceaad33d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Event Registration</sys_name>
+        <sys_package display_value="Event Registration" source="x_1559352_event_0">4156455a83611210eb58ec80ceaad3d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">4156455a83611210eb58ec80ceaad3d2</sys_scope>
+        <sys_scope_delete display_value="">73ab4b7f97534aa9a91b2a2b72b71551</sys_scope_delete>
+        <sys_update_name>sys_app_application_be7f588783651210eb58ec80ceaad33d</sys_update_name>
+        <sys_update_version display_value="sys_app_application_be7f588783651210eb58ec80ceaad33d">9b8f988783651210eb58ec80ceaad3e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 17:02:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
